@@ -1,17 +1,12 @@
+<img width="948" height="991" alt="Screenshot 2026-11-02 233539" src="https://github.com/user-attachments/assets/c23ee4a4-a3c2-4916-a44c-dda2086a3571" />
+<img width="946" height="973" alt="Screenshot 2026-11-02 223616" src="https://github.com/user-attachments/assets/d57693f2-4922-4816-b519-3e73314e3e0c" />
+
 # flutter_login_page
 
-A new Flutter project, with log-in and registration functions
+A new Flutter project featuring a modern glassmorphic login and registration UI for Orbit AI Assistant.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- **Modern Glassmorphic UI:** Blurred translucent cards with gradient backdrops.
+- **Form Validation:** Real-time email, password, name, and confirmation validation.
+- **Interactive States:** Hover cursors, success feedback notifications inside cards.
+- **Custom Assets:** Integrated logo branding for Orbit AI Assistant.
